@@ -54,6 +54,7 @@ export default function Input() {
     fontSize: '1.5em',
     marginBottom: '0.3em',
     color: 'royalblue', /* STEP 2 */
+
   };
 
   return (
